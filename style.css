@@ -3,4 +3,5 @@ body {
                 radial-gradient(ellipse at bottom, #000000, transparent),
                 radial-gradient(circle at 10%, #000000, transparent);
                 height: 100%;
+                width: 100%;
   }
