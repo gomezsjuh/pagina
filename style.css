@@ -1,5 +1,5 @@
 body {
-    background: radial-gradient(ellipse at top, #ff0000, transparent),
+    background: radial-gradient(ellipse at top, red, transparent),
                 radial-gradient(ellipse at bottom, #000000, transparent),
                 radial-gradient(circle at 50%, #000000, transparent);
                 height: 100vh
